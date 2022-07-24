@@ -38,6 +38,8 @@ node_modules
 venv/
 
 set_env.sh
+aws-secret.yaml
+env-secret.yaml
 udagram-api/
 
 # Elastic Beanstalk Files
